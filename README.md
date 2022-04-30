@@ -1,6 +1,6 @@
 # WALL·E
 
-This is a side project made for fun, and to teach @paollaolsen work with hardware.
+This is a side project made for fun, and to teach [@paollaolsen](https://github.com/paollaolsen) work with hardware.
 
 ## V1
 
